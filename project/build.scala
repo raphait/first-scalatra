@@ -9,7 +9,7 @@ object FirstScalatraBuild extends Build {
   val Organization = "com.raphaelalmeida"
   val Name = "First Scalatra"
   val Version = "0.1.0-SNAPSHOT"
-  val ScalaVersion = "2.10.x"
+  val ScalaVersion = "2.10.0"
   val ScalatraVersion = "2.2.1"
 
   lazy val project = Project (

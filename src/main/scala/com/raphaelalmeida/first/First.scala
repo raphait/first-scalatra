@@ -13,5 +13,9 @@ class First extends FirstScalatraStack {
       </body>
     </html>
   }
+
+  get("/oi") {
+    "Irado \\m/"
+  }
   
 }
